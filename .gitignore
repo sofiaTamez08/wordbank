@@ -1,0 +1,35 @@
+# Python bytecode and generated output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# macOS metadata
+.DS_Store
+._*
+
+# Local secrets and editor temporary files
+.env
+.env.*
+!.env.example
+*.swp
+*.swo
+*~
+
+# Personal data and in-progress saves (publish only the starter catalog)
+wordbank.json
+wordbank_personal*.json
+wordbank_temp.json
+!wordbank_default.json

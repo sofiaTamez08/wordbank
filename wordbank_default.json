@@ -1,0 +1,2957 @@
+{
+    "palabras": {
+        "susurrar": {
+            "sinonimos": [
+                {
+                    "texto": "murmurar",
+                    "favorito": false
+                },
+                {
+                    "texto": "musitar",
+                    "favorito": false
+                },
+                {
+                    "texto": "cuchichear",
+                    "favorito": false
+                },
+                {
+                    "texto": "hablar en voz baja",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "bajar la voz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "hablar al oído",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "en un hilo de voz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "murmurar con recelo",
+                    "emociones": [
+                        "desconfianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "gritar",
+                    "favorito": false
+                },
+                {
+                    "texto": "vociferar",
+                    "favorito": false
+                }
+            ]
+        },
+        "preguntar": {
+            "sinonimos": [
+                {
+                    "texto": "interrogar",
+                    "favorito": false
+                },
+                {
+                    "texto": "consultar",
+                    "favorito": false
+                },
+                {
+                    "texto": "inquirir",
+                    "favorito": false
+                },
+                {
+                    "texto": "indagar",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "pedir una explicación",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "formular una duda",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con tono interrogante",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "preguntar con curiosidad",
+                    "emociones": [
+                        "curiosidad"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "responder",
+                    "favorito": false
+                },
+                {
+                    "texto": "afirmar",
+                    "favorito": false
+                }
+            ]
+        },
+        "responder": {
+            "sinonimos": [
+                {
+                    "texto": "contestar",
+                    "favorito": false
+                },
+                {
+                    "texto": "replicar",
+                    "favorito": false
+                },
+                {
+                    "texto": "rebatir",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar respuesta",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dar una respuesta escueta",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "replicar sin vacilar",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "asentir en respuesta",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "contestar a regañadientes",
+                    "emociones": [
+                        "descontento"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "preguntar",
+                    "favorito": false
+                },
+                {
+                    "texto": "ignorar la pregunta",
+                    "favorito": false
+                }
+            ]
+        },
+        "confesar": {
+            "sinonimos": [
+                {
+                    "texto": "admitir",
+                    "favorito": false
+                },
+                {
+                    "texto": "reconocer",
+                    "favorito": false
+                },
+                {
+                    "texto": "revelar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sincerarse",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "admitir a media voz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "reconocer con vergüenza",
+                    "emociones": [
+                        "vergüenza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "poner en palabras lo que se ocultaba",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": true
+                },
+                {
+                    "texto": "hablar sin reservas",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "negar",
+                    "favorito": false
+                },
+                {
+                    "texto": "encubrir",
+                    "favorito": false
+                }
+            ]
+        },
+        "protestar": {
+            "sinonimos": [
+                {
+                    "texto": "reclamar",
+                    "favorito": false
+                },
+                {
+                    "texto": "objetar",
+                    "favorito": false
+                },
+                {
+                    "texto": "quejarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "mostrar desacuerdo",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "alzar la voz en desacuerdo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "expresar una objeción",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "negar con la cabeza",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "quejarse con indignación",
+                    "emociones": [
+                        "indignación"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "consentir",
+                    "favorito": false
+                },
+                {
+                    "texto": "aprobar",
+                    "favorito": false
+                }
+            ]
+        },
+        "bromear": {
+            "sinonimos": [
+                {
+                    "texto": "chancear",
+                    "favorito": false
+                },
+                {
+                    "texto": "gastar bromas",
+                    "favorito": false
+                },
+                {
+                    "texto": "hacer chanzas",
+                    "favorito": false
+                },
+                {
+                    "texto": "hablar en broma",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "con una sonrisa traviesa",
+                    "emociones": [
+                        "diversión"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar caer una ocurrencia",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "hacer una observación en broma",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "guiñar un ojo con complicidad",
+                    "emociones": [
+                        "complicidad"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "hablar en serio",
+                    "favorito": false
+                },
+                {
+                    "texto": "amonestar",
+                    "favorito": false
+                }
+            ]
+        },
+        "prometer": {
+            "sinonimos": [
+                {
+                    "texto": "comprometerse",
+                    "favorito": false
+                },
+                {
+                    "texto": "asegurar",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar palabra",
+                    "favorito": false
+                },
+                {
+                    "texto": "jurar",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dar su palabra",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "asumir un compromiso",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "asegurar con firmeza",
+                    "emociones": [
+                        "firmeza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "jurar de todo corazón",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "desentenderse",
+                    "favorito": false
+                },
+                {
+                    "texto": "retractarse",
+                    "favorito": false
+                }
+            ]
+        },
+        "advertir": {
+            "sinonimos": [
+                {
+                    "texto": "avisar",
+                    "favorito": false
+                },
+                {
+                    "texto": "prevenir",
+                    "favorito": false
+                },
+                {
+                    "texto": "alertar",
+                    "favorito": false
+                },
+                {
+                    "texto": "poner sobre aviso",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "poner sobre aviso",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "señalar un riesgo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "levantar la mano en señal de advertencia",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "con tono de prevención",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "ocultar el riesgo",
+                    "favorito": false
+                },
+                {
+                    "texto": "tranquilizar",
+                    "favorito": false
+                }
+            ]
+        },
+        "escuchar": {
+            "sinonimos": [
+                {
+                    "texto": "oír con atención",
+                    "favorito": false
+                },
+                {
+                    "texto": "prestar oído",
+                    "favorito": false
+                },
+                {
+                    "texto": "atender",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar oídos",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "prestar atención a cada palabra",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "ladear la cabeza para oír mejor",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "escuchar sin interrumpir",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": true
+                },
+                {
+                    "texto": "con el oído atento",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "desoír",
+                    "favorito": false
+                },
+                {
+                    "texto": "distraerse",
+                    "favorito": false
+                }
+            ]
+        },
+        "observar": {
+            "sinonimos": [
+                {
+                    "texto": "contemplar",
+                    "favorito": false
+                },
+                {
+                    "texto": "examinar",
+                    "favorito": false
+                },
+                {
+                    "texto": "mirar con atención",
+                    "favorito": false
+                },
+                {
+                    "texto": "escrutar",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "examinar en busca de una señal",
+                    "emociones": [
+                        "curiosidad",
+                        "desconfianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "entornar los párpados",
+                    "emociones": [
+                        "concentración",
+                        "desconfianza"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "seguir con atención",
+                    "emociones": [
+                        "interés",
+                        "curiosidad"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "detenerse a contemplar",
+                    "emociones": [
+                        "calma",
+                        "admiración"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "pasar por alto",
+                    "favorito": false
+                },
+                {
+                    "texto": "desatender",
+                    "favorito": false
+                }
+            ]
+        },
+        "vislumbrar": {
+            "sinonimos": [
+                {
+                    "texto": "entrever",
+                    "favorito": false
+                },
+                {
+                    "texto": "atisbar",
+                    "favorito": false
+                },
+                {
+                    "texto": "divisar",
+                    "favorito": false
+                },
+                {
+                    "texto": "distinguir apenas",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "distinguir a lo lejos",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "entrever por un instante",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "captar un contorno impreciso",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "apenas perceptible",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "perder de vista",
+                    "favorito": false
+                },
+                {
+                    "texto": "no alcanzar a ver",
+                    "favorito": false
+                }
+            ]
+        },
+        "oler": {
+            "sinonimos": [
+                {
+                    "texto": "olfatear",
+                    "favorito": false
+                },
+                {
+                    "texto": "aspirar un aroma",
+                    "favorito": false
+                },
+                {
+                    "texto": "percibir un olor",
+                    "favorito": false
+                },
+                {
+                    "texto": "captar un efluvio",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "aspirar profundamente",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "percibir un aroma tenue",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "olfatear con curiosidad",
+                    "emociones": [
+                        "curiosidad"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "arrugar la nariz ante un olor desagradable",
+                    "emociones": [
+                        "desagrado"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "contener la respiración",
+                    "favorito": false
+                },
+                {
+                    "texto": "no percibir olor",
+                    "favorito": false
+                }
+            ]
+        },
+        "palpar": {
+            "sinonimos": [
+                {
+                    "texto": "tantear",
+                    "favorito": false
+                },
+                {
+                    "texto": "tocar",
+                    "favorito": false
+                },
+                {
+                    "texto": "explorar al tacto",
+                    "favorito": false
+                },
+                {
+                    "texto": "reconocer con las manos",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "recorrer con las yemas de los dedos",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "explorar a tientas",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "comprobar la textura al tacto",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "presionar suavemente con el pulgar",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "retirar la mano",
+                    "favorito": false
+                },
+                {
+                    "texto": "evitar el contacto",
+                    "favorito": false
+                }
+            ]
+        },
+        "saborear": {
+            "sinonimos": [
+                {
+                    "texto": "degustar",
+                    "favorito": false
+                },
+                {
+                    "texto": "paladear",
+                    "favorito": false
+                },
+                {
+                    "texto": "catar",
+                    "favorito": false
+                },
+                {
+                    "texto": "gustar",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dejar que el sabor se extienda",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "paladear despacio",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "concentrarse en cada matiz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "disfrutar del regusto",
+                    "emociones": [
+                        "placer"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "engullir",
+                    "favorito": false
+                },
+                {
+                    "texto": "rechazar el sabor",
+                    "favorito": false
+                }
+            ]
+        },
+        "percibir": {
+            "sinonimos": [
+                {
+                    "texto": "captar",
+                    "favorito": false
+                },
+                {
+                    "texto": "notar",
+                    "favorito": false
+                },
+                {
+                    "texto": "advertir",
+                    "favorito": false
+                },
+                {
+                    "texto": "detectar",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "notar un cambio sutil",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "captar una impresión fugaz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "detectar algo fuera de lugar",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "hacerse consciente de una presencia",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "ignorar",
+                    "favorito": false
+                },
+                {
+                    "texto": "no advertir",
+                    "favorito": false
+                }
+            ]
+        },
+        "deslumbrar": {
+            "sinonimos": [
+                {
+                    "texto": "cegar con luz",
+                    "favorito": false
+                },
+                {
+                    "texto": "encandilar",
+                    "favorito": false
+                },
+                {
+                    "texto": "fascinar",
+                    "favorito": false
+                },
+                {
+                    "texto": "causar admiración",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "herir la vista con su brillo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "de un resplandor cegador",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar sin palabras de admiración",
+                    "emociones": [
+                        "admiración"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "fascinar a primera vista",
+                    "emociones": [
+                        "asombro"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "decepcionar",
+                    "favorito": false
+                },
+                {
+                    "texto": "pasar inadvertido",
+                    "favorito": false
+                }
+            ]
+        },
+        "acercarse": {
+            "sinonimos": [
+                {
+                    "texto": "aproximarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "arrimarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "avecinarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "reducir la distancia",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "acortar la distancia",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "dar unos pasos hacia delante",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "inclinarse hacia alguien",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "aproximarse con cautela",
+                    "emociones": [
+                        "cautela"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "alejarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "apartarse",
+                    "favorito": false
+                }
+            ]
+        },
+        "retroceder": {
+            "sinonimos": [
+                {
+                    "texto": "recular",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar marcha atrás",
+                    "favorito": false
+                },
+                {
+                    "texto": "retirarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "echarse atrás",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dar un paso atrás",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "apartarse con cautela",
+                    "emociones": [
+                        "cautela"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "echar el cuerpo hacia atrás",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "desandar lo avanzado",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "avanzar",
+                    "favorito": false
+                },
+                {
+                    "texto": "proseguir",
+                    "favorito": false
+                }
+            ]
+        },
+        "apresurarse": {
+            "sinonimos": [
+                {
+                    "texto": "darse prisa",
+                    "favorito": false
+                },
+                {
+                    "texto": "acelerar el ritmo",
+                    "favorito": false
+                },
+                {
+                    "texto": "aligerar el paso",
+                    "favorito": false
+                },
+                {
+                    "texto": "apurarse",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "aligerar el paso",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "actuar sin demora",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con prisa contenida",
+                    "emociones": [
+                        "urgencia"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "precipitarse a responder",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "demorarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "tomarse tiempo",
+                    "favorito": false
+                }
+            ]
+        },
+        "escabullirse": {
+            "sinonimos": [
+                {
+                    "texto": "escaparse",
+                    "favorito": false
+                },
+                {
+                    "texto": "escurrirse",
+                    "favorito": false
+                },
+                {
+                    "texto": "evadirse",
+                    "favorito": false
+                },
+                {
+                    "texto": "salir a hurtadillas",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "salir sin llamar la atención",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "deslizarse de lado",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "retirarse a hurtadillas",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "evitar dar explicaciones",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "permanecer",
+                    "favorito": false
+                },
+                {
+                    "texto": "presentarse abiertamente",
+                    "favorito": false
+                }
+            ]
+        },
+        "tropezar": {
+            "sinonimos": [
+                {
+                    "texto": "trastabillar",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar un traspié",
+                    "favorito": false
+                },
+                {
+                    "texto": "perder pie",
+                    "favorito": false
+                },
+                {
+                    "texto": "chocar con un obstáculo",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dar un traspié",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "perder el equilibrio",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "trastabillar al avanzar",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "chocar al pasar",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "sortear",
+                    "favorito": false
+                },
+                {
+                    "texto": "avanzar con firmeza",
+                    "favorito": false
+                }
+            ]
+        },
+        "sostener": {
+            "sinonimos": [
+                {
+                    "texto": "sujetar",
+                    "favorito": false
+                },
+                {
+                    "texto": "mantener en alto",
+                    "favorito": false
+                },
+                {
+                    "texto": "soportar",
+                    "favorito": false
+                },
+                {
+                    "texto": "servir de apoyo",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "mantener entre las manos",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "sujetar contra el pecho",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "ofrecer un punto de apoyo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dar fuerzas para continuar",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "soltar",
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar caer",
+                    "favorito": false
+                }
+            ]
+        },
+        "abrir": {
+            "sinonimos": [
+                {
+                    "texto": "destapar",
+                    "favorito": false
+                },
+                {
+                    "texto": "desplegar",
+                    "favorito": false
+                },
+                {
+                    "texto": "descorrer",
+                    "favorito": false
+                },
+                {
+                    "texto": "franquear",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "separar con cuidado",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "desplegar poco a poco",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar una abertura",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "abrir las manos",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "cerrar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sellar",
+                    "favorito": false
+                }
+            ]
+        },
+        "buscar": {
+            "sinonimos": [
+                {
+                    "texto": "rastrear",
+                    "favorito": false
+                },
+                {
+                    "texto": "indagar",
+                    "favorito": false
+                },
+                {
+                    "texto": "tratar de encontrar",
+                    "favorito": false
+                },
+                {
+                    "texto": "ir en busca de",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "rastrear una señal",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "examinar con detenimiento",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "tantear en busca de apoyo",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "seguir una pista",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": true
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "abandonar la búsqueda",
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar de explorar",
+                    "favorito": false
+                }
+            ]
+        },
+        "esperar": {
+            "sinonimos": [
+                {
+                    "texto": "aguardar",
+                    "favorito": false
+                },
+                {
+                    "texto": "permanecer a la espera",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar tiempo",
+                    "favorito": false
+                },
+                {
+                    "texto": "tener paciencia",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "permanecer a la espera",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con paciencia silenciosa",
+                    "emociones": [
+                        "paciencia"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "tamborilear con los dedos por impaciencia",
+                    "emociones": [
+                        "impaciencia"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "contener la prisa",
+                    "emociones": [
+                        "impaciencia"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "adelantarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "desistir",
+                    "favorito": false
+                }
+            ]
+        },
+        "anhelar": {
+            "sinonimos": [
+                {
+                    "texto": "desear intensamente",
+                    "favorito": false
+                },
+                {
+                    "texto": "ansiar",
+                    "favorito": false
+                },
+                {
+                    "texto": "suspirar por",
+                    "favorito": false
+                },
+                {
+                    "texto": "tener un vivo deseo",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "desear con toda el alma",
+                    "emociones": [
+                        "deseo"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "alimentar una esperanza",
+                    "emociones": [
+                        "esperanza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con un deseo apenas disimulado",
+                    "emociones": [
+                        "deseo"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "soñar con lo que falta",
+                    "emociones": [
+                        "añoranza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "rechazar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir indiferencia",
+                    "favorito": false
+                }
+            ]
+        },
+        "temer": {
+            "sinonimos": [
+                {
+                    "texto": "recelar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir miedo",
+                    "favorito": false
+                },
+                {
+                    "texto": "tener aprensión",
+                    "favorito": false
+                },
+                {
+                    "texto": "amedrentarse",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "anticipar lo peor",
+                    "emociones": [
+                        "miedo"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con aprensión creciente",
+                    "emociones": [
+                        "inquietud"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "sobresaltarse al menor ruido",
+                    "emociones": [
+                        "miedo"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "no atreverse a dar el paso",
+                    "emociones": [
+                        "miedo",
+                        "inseguridad"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "confiar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentirse a salvo",
+                    "favorito": false
+                }
+            ]
+        },
+        "confiar": {
+            "sinonimos": [
+                {
+                    "texto": "fiarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "tener fe",
+                    "favorito": false
+                },
+                {
+                    "texto": "depositar confianza",
+                    "favorito": false
+                },
+                {
+                    "texto": "contar con alguien",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dejarse guiar",
+                    "emociones": [
+                        "confianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "bajar la guardia",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "sin temor a equivocarse",
+                    "emociones": [
+                        "seguridad"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "creer en la palabra ajena",
+                    "emociones": [
+                        "confianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "desconfiar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sospechar",
+                    "favorito": false
+                }
+            ]
+        },
+        "avergonzarse": {
+            "sinonimos": [
+                {
+                    "texto": "ruborizarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "abochornarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentirse cohibido",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir vergüenza",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "bajar la mirada por vergüenza",
+                    "emociones": [
+                        "vergüenza"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "con las mejillas encendidas de vergüenza",
+                    "emociones": [
+                        "vergüenza"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "encogerse de vergüenza",
+                    "emociones": [
+                        "vergüenza"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "no saber dónde meterse",
+                    "emociones": [
+                        "vergüenza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "mostrarse orgulloso",
+                    "favorito": false
+                },
+                {
+                    "texto": "actuar sin reparos",
+                    "favorito": false
+                }
+            ]
+        },
+        "enfadarse": {
+            "sinonimos": [
+                {
+                    "texto": "enojarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "irritarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "molestarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "indignarse",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "perder la paciencia",
+                    "emociones": [
+                        "irritación"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "apretar la mandíbula con rabia",
+                    "emociones": [
+                        "enojo"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "con indignación creciente",
+                    "emociones": [
+                        "indignación"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "responder con irritación",
+                    "emociones": [
+                        "irritación"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "calmarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "serenarse",
+                    "favorito": false
+                }
+            ]
+        },
+        "alegrarse": {
+            "sinonimos": [
+                {
+                    "texto": "regocijarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "alborozarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentirse feliz",
+                    "favorito": false
+                },
+                {
+                    "texto": "celebrar",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "con alegría desbordante",
+                    "emociones": [
+                        "alegría"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dar un salto de alegría",
+                    "emociones": [
+                        "alegría"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "sonreír de satisfacción",
+                    "emociones": [
+                        "satisfacción"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir renovarse el entusiasmo",
+                    "emociones": [
+                        "entusiasmo"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "entristecerse",
+                    "favorito": false
+                },
+                {
+                    "texto": "apenarse",
+                    "favorito": false
+                }
+            ]
+        },
+        "lamentar": {
+            "sinonimos": [
+                {
+                    "texto": "deplorar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir pesar",
+                    "favorito": false
+                },
+                {
+                    "texto": "dolerse",
+                    "favorito": false
+                },
+                {
+                    "texto": "arrepentirse",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "con pesar en la voz",
+                    "emociones": [
+                        "pesar"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "desear haber actuado de otro modo",
+                    "emociones": [
+                        "arrepentimiento"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir el peso de una pérdida",
+                    "emociones": [
+                        "tristeza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "lamentarse sin consuelo",
+                    "emociones": [
+                        "pena"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "celebrar",
+                    "favorito": false
+                },
+                {
+                    "texto": "congratularse",
+                    "favorito": false
+                }
+            ]
+        },
+        "aliviarse": {
+            "sinonimos": [
+                {
+                    "texto": "tranquilizarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentirse aliviado",
+                    "favorito": false
+                },
+                {
+                    "texto": "recobrar la calma",
+                    "favorito": false
+                },
+                {
+                    "texto": "descansar de una preocupación",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "sentir que cede la tensión",
+                    "emociones": [
+                        "alivio"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "relajar los hombros",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar escapar un suspiro de alivio",
+                    "emociones": [
+                        "alivio"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "con una preocupación menos",
+                    "emociones": [
+                        "alivio"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "angustiarse",
+                    "favorito": false
+                },
+                {
+                    "texto": "inquietarse",
+                    "favorito": false
+                }
+            ]
+        },
+        "extrañar": {
+            "sinonimos": [
+                {
+                    "texto": "echar de menos",
+                    "favorito": false
+                },
+                {
+                    "texto": "añorar",
+                    "favorito": false
+                },
+                {
+                    "texto": "sentir nostalgia",
+                    "favorito": false
+                },
+                {
+                    "texto": "notar una ausencia",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "notar el peso de una ausencia",
+                    "emociones": [
+                        "soledad"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "echar de menos lo cotidiano",
+                    "emociones": [
+                        "nostalgia"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "volver con nostalgia al recuerdo",
+                    "emociones": [
+                        "nostalgia"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con añoranza persistente",
+                    "emociones": [
+                        "añoranza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "olvidar",
+                    "favorito": false
+                },
+                {
+                    "texto": "habituarse a la ausencia",
+                    "favorito": false
+                }
+            ]
+        },
+        "recordar": {
+            "sinonimos": [
+                {
+                    "texto": "rememorar",
+                    "favorito": false
+                },
+                {
+                    "texto": "evocar",
+                    "favorito": false
+                },
+                {
+                    "texto": "traer a la memoria",
+                    "favorito": false
+                },
+                {
+                    "texto": "hacer memoria",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "traer de nuevo a la memoria",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "reconstruir un recuerdo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "evocar con nostalgia",
+                    "emociones": [
+                        "nostalgia"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "recuperar un detalle olvidado",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": true
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "olvidar",
+                    "favorito": false
+                },
+                {
+                    "texto": "borrar del recuerdo",
+                    "favorito": false
+                }
+            ]
+        },
+        "imaginar": {
+            "sinonimos": [
+                {
+                    "texto": "figurar",
+                    "favorito": false
+                },
+                {
+                    "texto": "concebir",
+                    "favorito": false
+                },
+                {
+                    "texto": "fantasear",
+                    "favorito": false
+                },
+                {
+                    "texto": "representarse",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "dar forma a una posibilidad",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "ensayar una escena en la mente",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar volar la fantasía",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "representarse lo que podría ocurrir",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "constatar",
+                    "favorito": false
+                },
+                {
+                    "texto": "ceñirse a los hechos",
+                    "favorito": false
+                }
+            ]
+        },
+        "dudar": {
+            "sinonimos": [
+                {
+                    "texto": "vacilar",
+                    "favorito": false
+                },
+                {
+                    "texto": "titubear",
+                    "favorito": false
+                },
+                {
+                    "texto": "cuestionar",
+                    "favorito": false
+                },
+                {
+                    "texto": "tener reservas",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "vacilar antes de responder",
+                    "emociones": [
+                        "incertidumbre"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con reservas todavía",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "sopesar posibilidades opuestas",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar un gesto a medias",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "asegurar",
+                    "favorito": false
+                },
+                {
+                    "texto": "dar por cierto",
+                    "favorito": false
+                }
+            ]
+        },
+        "comprender": {
+            "sinonimos": [
+                {
+                    "texto": "entender",
+                    "favorito": false
+                },
+                {
+                    "texto": "captar el sentido",
+                    "favorito": false
+                },
+                {
+                    "texto": "asimilar",
+                    "favorito": false
+                },
+                {
+                    "texto": "hacerse cargo",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "encontrar sentido a lo ocurrido",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "ver cómo encajan las piezas",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "ponerse en el lugar del otro",
+                    "emociones": [
+                        "empatía"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "captar lo que no se dice",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "confundirse",
+                    "favorito": false
+                },
+                {
+                    "texto": "malinterpretar",
+                    "favorito": false
+                }
+            ]
+        },
+        "decidir": {
+            "sinonimos": [
+                {
+                    "texto": "resolver",
+                    "favorito": false
+                },
+                {
+                    "texto": "determinar",
+                    "favorito": false
+                },
+                {
+                    "texto": "optar",
+                    "favorito": false
+                },
+                {
+                    "texto": "tomar una decisión",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "inclinarse por una opción",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "resolver sin más rodeos",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dar por zanjada la duda",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con determinación firme",
+                    "emociones": [
+                        "determinación"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "vacilar",
+                    "favorito": false
+                },
+                {
+                    "texto": "posponer",
+                    "favorito": false
+                }
+            ]
+        },
+        "sospechar": {
+            "sinonimos": [
+                {
+                    "texto": "conjeturar",
+                    "favorito": false
+                },
+                {
+                    "texto": "barruntar",
+                    "favorito": false
+                },
+                {
+                    "texto": "recelar",
+                    "favorito": false
+                },
+                {
+                    "texto": "presumir",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "intuir que algo no encaja",
+                    "emociones": [
+                        "desconfianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "poner en duda las apariencias",
+                    "emociones": [
+                        "desconfianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con recelo apenas disimulado",
+                    "emociones": [
+                        "desconfianza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "barajar una explicación oculta",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "descartar",
+                    "favorito": false
+                },
+                {
+                    "texto": "confiar plenamente",
+                    "favorito": false
+                }
+            ]
+        },
+        "olvidar": {
+            "sinonimos": [
+                {
+                    "texto": "no recordar",
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar de tener presente",
+                    "favorito": false
+                },
+                {
+                    "texto": "perder de la memoria",
+                    "favorito": false
+                },
+                {
+                    "texto": "relegar al olvido",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "perder el hilo del recuerdo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "no conseguir recuperar un nombre",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "dejar de tener presente",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "desvanecerse de la memoria",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "recordar",
+                    "favorito": false
+                },
+                {
+                    "texto": "retener",
+                    "favorito": false
+                }
+            ]
+        },
+        "reconocer": {
+            "sinonimos": [
+                {
+                    "texto": "identificar",
+                    "favorito": false
+                },
+                {
+                    "texto": "distinguir",
+                    "favorito": false
+                },
+                {
+                    "texto": "ubicar",
+                    "favorito": false
+                },
+                {
+                    "texto": "darse cuenta de quién es",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "identificar un rasgo familiar",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "distinguir por la voz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "advertir una semejanza conocida",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "saber de quién se trata",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "confundir",
+                    "favorito": false
+                },
+                {
+                    "texto": "desconocer",
+                    "favorito": false
+                }
+            ]
+        },
+        "sereno": {
+            "sinonimos": [
+                {
+                    "texto": "sosegado",
+                    "favorito": false
+                },
+                {
+                    "texto": "apacible",
+                    "favorito": false
+                },
+                {
+                    "texto": "tranquilo",
+                    "favorito": false
+                },
+                {
+                    "texto": "ecuánime",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "sin perder la calma",
+                    "emociones": [
+                        "calma"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "de voz pausada",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con el semblante sosegado",
+                    "emociones": [
+                        "serenidad"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "libre de agitación",
+                    "emociones": [
+                        "calma"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "agitado",
+                    "favorito": false
+                },
+                {
+                    "texto": "alterado",
+                    "favorito": false
+                }
+            ]
+        },
+        "sombrío": {
+            "sinonimos": [
+                {
+                    "texto": "lúgubre",
+                    "favorito": false
+                },
+                {
+                    "texto": "oscuro",
+                    "favorito": false
+                },
+                {
+                    "texto": "tenebroso",
+                    "favorito": false
+                },
+                {
+                    "texto": "melancólico",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "envuelto en penumbra",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "de aspecto lúgubre",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con aire melancólico",
+                    "emociones": [
+                        "tristeza"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "sin rastro de optimismo",
+                    "emociones": [
+                        "pesimismo"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "luminoso",
+                    "favorito": false
+                },
+                {
+                    "texto": "alegre",
+                    "favorito": false
+                }
+            ]
+        },
+        "frágil": {
+            "sinonimos": [
+                {
+                    "texto": "quebradizo",
+                    "favorito": false
+                },
+                {
+                    "texto": "delicado",
+                    "favorito": false
+                },
+                {
+                    "texto": "vulnerable",
+                    "favorito": false
+                },
+                {
+                    "texto": "endeble",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "a punto de quebrarse",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "de apariencia delicada",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "apenas capaz de sostenerse",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "vulnerable al menor roce",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "resistente",
+                    "favorito": false
+                },
+                {
+                    "texto": "robusto",
+                    "favorito": false
+                }
+            ]
+        },
+        "áspero": {
+            "sinonimos": [
+                {
+                    "texto": "rugoso",
+                    "favorito": false
+                },
+                {
+                    "texto": "rasposo",
+                    "favorito": false
+                },
+                {
+                    "texto": "tosco",
+                    "favorito": false
+                },
+                {
+                    "texto": "brusco",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "de superficie rugosa",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con un tacto rasposo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "de trato brusco",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con dureza en la voz",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "suave",
+                    "favorito": false
+                },
+                {
+                    "texto": "afable",
+                    "favorito": false
+                }
+            ]
+        },
+        "cálido": {
+            "sinonimos": [
+                {
+                    "texto": "templado",
+                    "favorito": false
+                },
+                {
+                    "texto": "tibio",
+                    "favorito": false
+                },
+                {
+                    "texto": "acogedor",
+                    "favorito": false
+                },
+                {
+                    "texto": "afectuoso",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "de calor suave",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con una cercanía acogedora",
+                    "emociones": [
+                        "afecto"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": true
+                },
+                {
+                    "texto": "de tono afectuoso",
+                    "emociones": [
+                        "afecto"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "tibio al tacto",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "frío",
+                    "favorito": false
+                },
+                {
+                    "texto": "distante",
+                    "favorito": false
+                }
+            ]
+        },
+        "lejano": {
+            "sinonimos": [
+                {
+                    "texto": "distante",
+                    "favorito": false
+                },
+                {
+                    "texto": "remoto",
+                    "favorito": false
+                },
+                {
+                    "texto": "apartado",
+                    "favorito": false
+                },
+                {
+                    "texto": "alejado",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "apenas visible en la distancia",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "fuera de alcance",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "remoto en el recuerdo",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con una distancia difícil de salvar",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "cercano",
+                    "favorito": false
+                },
+                {
+                    "texto": "inmediato",
+                    "favorito": false
+                }
+            ]
+        },
+        "inquieto": {
+            "sinonimos": [
+                {
+                    "texto": "intranquilo",
+                    "favorito": false
+                },
+                {
+                    "texto": "desasosegado",
+                    "favorito": false
+                },
+                {
+                    "texto": "nervioso",
+                    "favorito": false
+                },
+                {
+                    "texto": "agitado",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "incapaz de estarse quieto",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "mover las manos con nerviosismo",
+                    "emociones": [
+                        "nervios"
+                    ],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "sin lograr sosiego",
+                    "emociones": [
+                        "inquietud"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con una preocupación persistente",
+                    "emociones": [
+                        "preocupación"
+                    ],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "sosegado",
+                    "favorito": false
+                },
+                {
+                    "texto": "quieto",
+                    "favorito": false
+                }
+            ]
+        },
+        "silencioso": {
+            "sinonimos": [
+                {
+                    "texto": "callado",
+                    "favorito": false
+                },
+                {
+                    "texto": "sigiloso",
+                    "favorito": false
+                },
+                {
+                    "texto": "quedo",
+                    "favorito": false
+                },
+                {
+                    "texto": "sin ruido",
+                    "favorito": false
+                }
+            ],
+            "alternativas": [
+                {
+                    "texto": "sin hacer ruido",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "de pasos sigilosos",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                },
+                {
+                    "texto": "sin pronunciar palabra",
+                    "emociones": [],
+                    "lenguaje_corporal": false,
+                    "favorito": false
+                },
+                {
+                    "texto": "con los labios cerrados",
+                    "emociones": [],
+                    "lenguaje_corporal": true,
+                    "favorito": false
+                }
+            ],
+            "contraste": [
+                {
+                    "texto": "ruidoso",
+                    "favorito": false
+                },
+                {
+                    "texto": "bullicioso",
+                    "favorito": false
+                }
+            ]
+        }
+    }
+}
